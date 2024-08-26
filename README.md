@@ -1,6 +1,4 @@
 ### Code Documentation with Comments
-
-python
 # Importing abstract base classes to define interfaces
 from abc import ABC, abstractmethod
 
